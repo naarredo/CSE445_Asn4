@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://naarredo.github.io/CSE445_Asn4" targetNamespace="https://naarredo.github.io/CSE445_Asn4">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://naarredo.github.io/CSE445_Asn4">
 	<xsd:element name="Hotels">
 		<xsd:complexType>
 			<xsd:sequence>
