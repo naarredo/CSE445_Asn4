@@ -16,7 +16,7 @@
 	<!-- Hotel 2 Phone Missing -->
 	<Hotel Rating="4.3">
 		<Name>The Westin Tempe</Name>
-		<Address NearestAirport="Sky Harbor, PHX">
+		<Address NearstAirport="Sky Harbor, PHX">
 			<Number>11</Number>
 			<Street>E 7th Street</Street>
 			<City>Tempe</City>
@@ -30,7 +30,7 @@
 		<Name>Vib Hotel by Best Western Phoenix-Tempe</Name>
 		<Phone>+1(480)805-2070</Phone>
 		<Phone>+1(800)780-7234</Phone>
-		<Address NearestAirport="Sky Harbor, PHX">
+		<Address NearstAirport="Sky Harbor, PHX">
 			<Number>511</Number>
 			<Street>South Farmer Avenue</Street>
 			<City>Tempe</City>
@@ -44,7 +44,7 @@
 		<Name>Canopy by Hilton Tempe Downtown</Name>
 		<Name>Canopy</Name>
 		<Phone>+1(480)968-6800</Phone>
-		<Address NearestAirport="Sky Harbor, PHX">
+		<Address NearstAirport="Sky Harbor, PHX">
 			<Number>108</Number>
 			<Street>E University Drive</Street>
 			<City>Tempe</City>
@@ -57,7 +57,7 @@
 	<Hotel Rating="3.1">
 		<Name>La Quinta Inn by Wyndham Phoenix</Name>
 		<Phone>+1(800)573-3757</Phone>
-		<Address NearestAirport="Sky Harbor, PHX">
+		<Address NearstAirport="Sky Harbor, PHX">
 			<Number>911</Number>
 			<Street>S 48th Street</Street>
 			<City>Tempe</City>
@@ -70,7 +70,7 @@
 	<Hotel>
 		<Name>Four Points by Sharaton at Phoenix Mesa Gateway Airport</Name>
 		<Phone>+1(480)579-2100</Phone>
-		<Address NearestAirport="Mesa Gateway, AZA">
+		<Address NearstAirport="Mesa Gateway, AZA">
 			<Number>6850</Number>
 			<Street>E Williams Field Road</Street>
 			<City>Mesa</City>
@@ -83,7 +83,7 @@
 		<Name>WorldMark Windsor</Name>
 		<Phone>+1(707)836-2420</Phone>
 		<Phone>+1(800)428-1932</Phone>
-		<Address NearestAirport="Charles M. Schulz - Sonoma County Airport, STS">
+		<Address NearstAirport="Charles M. Schulz - Sonoma County Airport, STS">
 			<Number>1251</Number>
 			<Street>Shiloh Road</Street>
 			<City>Windsor</City>
@@ -96,7 +96,7 @@
 	<Hotel Rating="4.4">
 		<Name>Hampton Inn and Suites Windsor</Name>
 		<Phone>+1(707)837-9355</Phone>
-		<Address NearestAirport="Charles M. Schulz - Sonoma County Airport, STS">
+		<Address NearstAirport="Charles M. Schulz - Sonoma County Airport, STS">
 			<Number>8937</Number>
 			<Street>Brooks Road South</Street>
 			<City>Windsor</City>
@@ -109,7 +109,7 @@
 	<Hotel Rating="4.1">
 		<Name>Regency Inn</Name>
 		<Phone>+1(650)589-7535</Phone>
-		<Address NearestAirport="San Fransisco Internation Airport, SFO">
+		<Address NearstAirport="San Fransisco Internation Airport, SFO">
 			<Number>411</Number>
 			<Street>San Bruno Ave East</Street>
 			<City>San Bruno</City>
@@ -123,7 +123,7 @@
 		<Name>HomeTowne Stuidos Seattle</Name>
 		<Phone>+1(877)843-7663</Phone>
 		<Phone>+1(937)328-4981</Phone>
-		<Address NearestAirport="Seattle-Tacoma International Airport, SEA">
+		<Address NearstAirport="Seattle-Tacoma International Airport, SEA">
 			<Number>25104</Number>
 			<Street>Pacific Hwy South</Street>
 			<City>Kent</City>
